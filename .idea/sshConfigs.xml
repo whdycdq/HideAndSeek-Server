@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="svn.dycnb.cn" id="6633d9bc-3efb-4107-a8e3-1dc50e5e5482" port="22" nameFormat="DESCRIPTIVE" username="whdycdq" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="192.168.135.129" id="ef9e127a-ae8d-469a-923b-f72c5ae7ec70" port="22" nameFormat="DESCRIPTIVE" username="whdycdq" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
